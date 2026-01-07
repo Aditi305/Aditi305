@@ -17,19 +17,27 @@ I’m passionate about building **AI-powered applications**, **autonomous agent 
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack & Skills
 
-**Languages**
-Python • JavaScript • Java • SQL
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql" />
+</p>
 
-**Frameworks & Libraries**
-FastAPI • Flask • React.js • Node.js • Pandas • NumPy • Scikit-learn • TensorFlow
+### 🧩 Libraries & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,tensorflow,bootstrap,tailwind" />
+</p>
 
-**AI / ML**
-LLM Integration (OpenAI, Gemini) • NLP • Predictive Modeling • Feature Engineering
+### ⚙️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel,firebase" />
+</p>
 
-**Databases & Tools**
-PostgreSQL • MySQL • MongoDB • Git • GitHub • Docker • VS Code • Postman
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
 
 ---
 
@@ -58,9 +66,11 @@ Visual workflow builder to connect AI agents into autonomous pipelines.
 
 ## 📊 GitHub Stats
 
-![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditi305\&show_icons=true\&theme=radical)
+![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditi305&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi305\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi305&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Aditi305&theme=radical)
 
 ---
 
