@@ -64,16 +64,6 @@ Visual workflow builder to connect AI agents into autonomous pipelines.
 
 ---
 
-## 📊 GitHub Stats
-
-![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditi305&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi305&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Aditi305&theme=radical)
-
----
-
 ## 📫 Connect With Me
 
 * 📧 Email: [aditikuhar30@gmail.com](mailto:aditikuhar30@gmail.com)
