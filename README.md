@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Aditi+Dilip+Kuhar;AI+%26+Data+Science+Undergraduate;AI+%7C+Full-Stack+Developer;LLM+%26+Agent+Systems+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Aditi+Dilip+Kuhar;AI+%26+Data+Science+Graduate;AI+%7C+Full-Stack+Developer;LLM+%26+Agent+Systems+Enthusiast" alt="Typing SVG" />
 </h1>
 
 🎓 **Artificial Intelligence & Data Science Graduate** | 💻 **AI & Full-Stack Developer** | 🤖 **LLM & Agent Systems Enthusiast**
