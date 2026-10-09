@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Aditi+Dilip+Kuhar;AI+%26+Data+Science+Undergraduate;AI+%7C+Full-Stack+Developer;LLM+%26+Agent+Systems+Enthusiast" alt="Typing SVG" />
 </h1>
 
-🎓 **Artificial Intelligence & Data Science Undergraduate** | 💻 **AI & Full-Stack Developer** | 🤖 **LLM & Agent Systems Enthusiast**
+🎓 **Artificial Intelligence & Data Science Graduate** | 💻 **AI & Full-Stack Developer** | 🤖 **LLM & Agent Systems Enthusiast**
 
 I’m passionate about building **AI-powered applications**, **autonomous agent systems**, and **scalable full-stack solutions**. I enjoy working at the intersection of **machine learning, large language models, and modern web technologies** to solve real-world problems.
 
